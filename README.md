@@ -2,7 +2,10 @@
 
 ## Description
 
-I compared the classification algorithms AdaBoost, Random Forest, and Decision Tree using a case study of whether or not a student will graduate on time using Python and Ms. Excel (for some visualization). This is a project for my bachelor's degree.
+I compared the classification algorithms AdaBoost, Random Forest, and Decision Tree using a case study of whether or not a student of UNJ will graduate on time using Python and Ms. Excel (for some visualization). This is a project for my bachelor's degree.
+
+## Atributte Information
+The response variable in this study is a binary variable, graduate on time or not (Yes = 1, No = 0), and the predictor variables are GPA and Credit.
 
 ## Source Code
 
@@ -12,7 +15,7 @@ You can see my codes for preprocessing the data in [here](https://github.com/mal
 
 ## Result
 
-To see the scraped dataset you can click [here](https://drive.google.com/file/d/10FVvc3h6mKEmXuNrDYHZdGANtxkssONb/view?usp=sharing)
+To see the paper of my study you can click [here]()
 
 
 
