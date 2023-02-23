@@ -9,9 +9,9 @@ The response variable in this study is a binary variable, graduate on time or no
 
 ## Source Code
 
-You can see my codes for preprocessing the data in [here](https://github.com/malikkarim14/Predicting-the-On-Time-Graduation-Status-of-UNJ-Students/blob/77d690d87e2a05b68cb507632793a0caa71c27e6/Notebook/Preprocessing_Skripsi.ipynb)
+You can see my codes for preprocessing the data in [here](https://github.com/malikkarim14/Classifying-the-Graduation-Time-Status-of-UNJ-Students/blob/0ae320813f743e57010e183d791f2840fc9f4d90/Notebook/Preprocessing_Skripsi.ipynb)
 
-... and for modelling process in [here](https://github.com/malikkarim14/Predicting-the-On-Time-Graduation-Status-of-UNJ-Students/blob/77d690d87e2a05b68cb507632793a0caa71c27e6/Notebook/Pemodelan_Skripsi.ipynb)
+... and for modelling process in [here](https://github.com/malikkarim14/Classifying-the-Graduation-Time-Status-of-UNJ-Students/blob/0ae320813f743e57010e183d791f2840fc9f4d90/Notebook/Pemodelan_Skripsi.ipynb)
 
 ## Result
 
