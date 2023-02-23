@@ -1,4 +1,4 @@
-# Predicting-the-On-Time-Graduation-Status-of-UNJ-Students
+# Classifying-the-Graduation-Time-Status-of-UNJ-Students
 
 ## Description
 
@@ -21,4 +21,4 @@ To see the paper of my study you can click [here]()
 
 #### Creation Date
 
-November 10th, 2022
+January 18th, 2023
